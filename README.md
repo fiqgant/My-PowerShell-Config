@@ -1,7 +1,8 @@
 # My PowerShell Config
 
 ## Screenshot
-https://github.com/fiqgant/My-PowerShell-Config/blob/main/Images/SS_1.png
+![alt tag](https://github.com/fiqgant/My-PowerShell-Config/blob/main/Images/SS_1.png)
+
 
 ## Code
 
