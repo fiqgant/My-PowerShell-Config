@@ -1,5 +1,6 @@
 # My PowerShell Config
-- [Nerd Fonts](https://www.nerdfonts.com/)
+- [Nerd Fonts](https://www.nerdfonts.com/) Iconic font aggregator, collection, and patcher
+- [Scoop](https://scoop.sh/). A command-line installer for Windows
 
 
 ## Screenshot
