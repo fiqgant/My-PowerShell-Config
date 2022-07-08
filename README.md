@@ -1,5 +1,9 @@
 # My PowerShell Config
-## Configuration for my powershell on windows 11
+
+## Screenshot
+https://github.com/fiqgant/My-PowerShell-Config/blob/main/Images/SS_1.png
+
+## Code
 
 ``` Powershell
 # Prompt
