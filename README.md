@@ -1,4 +1,4 @@
-# My-PowerShell-Config
+# My PowerShell Config
 ## Configuration for my powershell on windows 11
 
 ``` Powershell
