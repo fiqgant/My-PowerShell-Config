@@ -10,7 +10,7 @@
 - [Fzf](https://github.com/junegunn/fzf) A command-line fuzzy finder
 
 
-## Screenshot
+## Screenshots
 ![alt tag](https://github.com/fiqgant/My-PowerShell-Config/blob/main/Images/SS_1.png)
 
 ![alt tag](https://github.com/fiqgant/My-PowerShell-Config/blob/main/Images/SS_2-.png)
