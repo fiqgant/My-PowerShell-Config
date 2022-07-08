@@ -3,6 +3,8 @@
 ## Screenshot
 ![alt tag](https://github.com/fiqgant/My-PowerShell-Config/blob/main/Images/SS_1.png)
 
+![alt tag](https://github.com/fiqgant/My-PowerShell-Config/blob/main/Images/SS_2.png)
+
 
 ## Code
 
