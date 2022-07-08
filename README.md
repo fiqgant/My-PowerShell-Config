@@ -1,6 +1,13 @@
 # My PowerShell Config
 - [Nerd Fonts](https://www.nerdfonts.com/) Iconic font aggregator, collection, and patcher
-- [Scoop](https://scoop.sh/). A command-line installer for Windows
+- [Scoop](https://scoop.sh/) A command-line installer for Windows
+- [Git](https://git-scm.com/) DevOps tool used for source code management
+- [Neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and usability
+- [Oh My Posh](https://ohmyposh.dev/docs) A prompt theme engine for any shell.
+- [Terminal Icons](https://github.com/devblackops/Terminal-Icons) A PowerShell module to show file and folder icons in the terminal
+- [z](https://github.com/rupa/z) Directory jumper
+- [PSReadLine](https://github.com/PowerShell/PSReadLine) A bash inspired readline implementation for PowerShell
+- [Fzf](https://github.com/junegunn/fzf) A command-line fuzzy finder
 
 
 ## Screenshot
