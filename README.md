@@ -20,38 +20,47 @@
 
 ## Code
 
+### Prompt
 ``` Powershell
-# Prompt
 clear
 Import-Module posh-git
 Import-Module PSReadLine
 Import-Module -Name Terminal-Icons
 oh-my-posh init pwsh --config C:\Users\fiq\AppData\Local\Programs\oh-my-posh\themes/cloud-native-azure.omp.json | Invoke-Expression
+```
 
-# PSReadline
+### PSReadline
+``` Powershell
 Set-PSReadLineOption -EditMode Emacs
 Set-PSReadLineOption -BellStyle None
 Set-PSReadLineKeyHandler -Chord 'Ctrl+d' -Function DeleteChar
 Set-PSReadLineOption -PredictionSource History
+```
 
-#Fzf
+### Fzf
+``` Powershell
 Import-Module PSFzf
 Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+f' -PSReadlineChordReverseHistory 'Ctrl+r'
+```
 
-# Alias
+
+### Alias
+``` Powershell
 Set-Alias vim nvim
 Set-Alias ll ls
 Set-Alias g git
 Set-Alias grep findstr
 Set-Alias tig 'C:\Program Files\Git\usr\bin\tig.exe'
 Set-Alias less 'C:\Program Files\Git\usr\bin\less.exe'
-Set-Alias python 'C:\Users\fiq\AppData\Local\Programs\Python\Python39\python.exe'
-Set-Alias p 'C:\Users\fiq\AppData\Local\Programs\Python\Python39\python.exe'
+Set-Alias python 'C:\Users\fiq\AppData\Local\Programs\Python\Python37\python.exe'
+Set-Alias p 'C:\Users\fiq\AppData\Local\Programs\Python\Python37\python.exe'
+```
 
-
-# Utilities
+### Utilities
+``` Powershell
 function which ($command) {
     Get-Command -Name $command -ErrorAction SilentlyContinue |
         Select-Object -ExpandProperty Path -ErrorAction SilentlyContinue
     
 }
+```
